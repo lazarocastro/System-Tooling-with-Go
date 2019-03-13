@@ -1,4 +1,4 @@
-# System-Tooling-with-Go
+# System Tooling with Go
 
 Course content support.
 
